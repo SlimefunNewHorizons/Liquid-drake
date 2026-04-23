@@ -1,9 +1,9 @@
-package io.github.seggan.liquid;
+package com.github.drakescraft-labs.liquid;
 
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import com.github.drakescraft-labs.slimefun4.api.items.ItemGroup;
+import com.github.drakescraft-labs.slimefun4.api.items.SlimefunItemStack;
 import dev.drake.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.utils.LoreBuilder;
+import com.github.drakescraft-labs.slimefun4.utils.LoreBuilder;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 

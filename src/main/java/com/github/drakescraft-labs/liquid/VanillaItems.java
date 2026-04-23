@@ -1,4 +1,4 @@
-package io.github.seggan.liquid;
+package com.github.drakescraft-labs.liquid;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
