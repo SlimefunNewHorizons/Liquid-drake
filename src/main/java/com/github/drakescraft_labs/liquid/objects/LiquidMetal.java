@@ -1,15 +1,15 @@
-package com.github.drakescraft-labs.liquid.objects;
+package com.github.drakescraft_labs.liquid.objects;
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
-import com.github.drakescraft-labs.liquid.Items;
-import com.github.drakescraft-labs.liquid.VanillaItems;
-import com.github.drakescraft-labs.liquid.machinery.Melter;
-import com.github.drakescraft-labs.slimefun4.api.events.PlayerRightClickEvent;
-import com.github.drakescraft-labs.slimefun4.api.items.SlimefunItem;
-import com.github.drakescraft-labs.slimefun4.api.items.SlimefunItemStack;
-import com.github.drakescraft-labs.slimefun4.core.handlers.ItemUseHandler;
-import com.github.drakescraft-labs.slimefun4.implementation.SlimefunItems;
+import com.github.drakescraft_labs.liquid.Items;
+import com.github.drakescraft_labs.liquid.VanillaItems;
+import com.github.drakescraft_labs.liquid.machinery.Melter;
+import com.github.drakescraft_labs.slimefun4.api.events.PlayerRightClickEvent;
+import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
+import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItemStack;
+import com.github.drakescraft_labs.slimefun4.core.handlers.ItemUseHandler;
+import com.github.drakescraft_labs.slimefun4.implementation.SlimefunItems;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
