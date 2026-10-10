@@ -1,12 +1,12 @@
 package com.github.drakescraft_labs.liquid.objects;
 
-import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
-import com.github.drakescraft_labs.slimefun4.core.attributes.ItemAttribute;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.blocks.BlockPosition;
-import com.github.drakescraft_labs.slimefun4.utils.NumberUtils;
+import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun4.core.attributes.ItemAttribute;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.blocks.BlockPosition;
+import io.github.thebusybiscuit.slimefun4.utils.NumberUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
-import com.github.drakescraft_labs.slimefun4.legacy.api.BlockStorage;
-import org.apache.commons.lang.Validate;
+import me.mrCookieSlime.Slimefun.api.BlockStorage;
+import org.apache.commons.lang3.Validate;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 
