@@ -1,7 +1,7 @@
 # Liquid
 
 > [!WARNING]
-> **Independent, experimental port:** Liquid is enabled on DrakesCraft, but production use is not a guarantee that all features are complete or safe in other environments. Test it separately and keep backups. This project is not endorsed by its original author.
+> **Independent community port:** Liquid is enabled on DrakesCraft. Compatibility and recovery depend on the server configuration, so test changes separately and keep backups. This port is not an official upstream release.
 
 This is a Slimefun addon that adds liquid versions af metals and alloys and ways to process and store them.
 
