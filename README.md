@@ -1,5 +1,8 @@
 # Liquid
 
+> [!WARNING]
+> **Independent, experimental port:** Liquid is enabled on DrakesCraft, but production use is not a guarantee that all features are complete or safe in other environments. Test it separately and keep backups. This project is not endorsed by its original author.
+
 This is a Slimefun addon that adds liquid versions af metals and alloys and ways to process and store them.
 
 <!-- DRAKES-STATUS:BEGIN -->
@@ -15,6 +18,6 @@ This is a Slimefun addon that adds liquid versions af metals and alloys and ways
 
 This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons).
 
-- **Original Project:** Created by the upstream authors and the open-source community.
-- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
-- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
+- **Original project:** [Seggan/Liquid](https://github.com/Seggan/Liquid), by Seggan and contributors.
+- **Changes:** See the [commit history](https://github.com/SlimefunNewHorizons/Liquid-drake/commits/main/) for changes and dates.
+- **License:** [GNU LGPL v3](LICENSE.txt). Source provenance and preservation of upstream notices remain under review.
